@@ -21,9 +21,12 @@ Bu repo, Java Collection Framework yapısını anlamak, uygulamak ve gerçek sen
 ---
 
 ## Örnek Projeler
-- 
-- 
-- 
+- **Harf frekansı bulma**
+- **Macera oyunu**
+- **Stack yardımı ile palindrom kontrolü**
+- **Queue kullanarak sıra kontrolü**
+- **Itabre interface ile kumanda yapımı**
+- **Priority Queue ve Comparable interface ile hastane uygulaması**
   
 
 ---
